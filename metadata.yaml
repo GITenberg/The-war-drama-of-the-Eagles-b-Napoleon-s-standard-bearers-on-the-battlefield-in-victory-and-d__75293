@@ -1,11 +1,16 @@
 _repo: The-war-drama-of-the-Eagles-b-Napoleon-s-standard-bearers-on-the-battlefield-in-victory-and-d__75293
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75293-h/images/cover.jpg
 creator:
   author:
     agent_name: Fraser, Edward
     gutenberg_agent_id: '50444'
     url: http://www.gutenberg.org/2009/agents/50444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75293#The-war-drama-of-the-Eagles-b-Napoleon-s-standard-bearers-on-the-battlefield-in-victory-and-d_
 gutenberg_issued: '2025-02-05'
 gutenberg_type: Text
 identifiers:
